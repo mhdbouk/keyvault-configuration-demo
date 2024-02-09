@@ -8,7 +8,7 @@ This is demonstrated in a detailed YouTube video, go check it out
 
 [![Secure your .NET application with Azure Key Vault](https://img.youtube.com/vi/Mi6ups54bSU/0.jpg)](https://youtu.be/Mi6ups54bSU)
 
-Also check out the Blog post: [Secure On-Premise .NET Application with Azure Key Vault](https://www.mdbouk.com//)
+Also check out the Blog post: [Secure On-Premise .NET Application with Azure Key Vault](https://mdbouk.com/secure-on-premise-net-application-with-azure-key-vault/)
 
 ## Project Structure
 
